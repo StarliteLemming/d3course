@@ -1,0 +1,20 @@
+.title
+{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+.chart {
+    width: 200px;
+    height: 1000px;
+}
+
+.headcirc {
+  fill: yellow;
+}
+
+.circ1 {
+    stroke: green;
+    fill: white;
+    stroke-width: 5;
+}
