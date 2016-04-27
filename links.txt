@@ -1,0 +1,16 @@
+Reference Links
+
+Javascript ref
+http://www.w3schools.com/jsref/default.asp
+
+D3 ref
+https://github.com/mbostock/d3/wiki/API-Reference#d3scale-scales
+
+Also see the JavaScript underscore library
+
+
+Etherpad
+https://public.etherpad-mozilla.org/p/D3_April_2016
+
+Course Notes
+http://isakiko.github.io/D3-visualising-data/09-d3exit.html

@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+        <link rel="stylesheet" type="text/css" href="nations.css" />
+</head>
+
+<body>
+        <h1>The Wealth and Health of Nations</h1>
+        <div id="chart_area"></div>
+
+        <input type="checkbox" class="region_cb" value="Sub-Saharan Africa" checked>Sub-Saharan Africa</input>
+        <input type="checkbox" class="region_cb" value="South Asia" checked>South Asia</input>
+        <input type="checkbox" class="region_cb" value="Middle East & North Africa" checked>Middle East & North Africa</input>
+        <input type="checkbox" class="region_cb" value="America" checked>America</input>
+        <input type="checkbox" class="region_cb" value="East Asia & Pacific" checked>East Asia & Pacific</input>
+        <input type="checkbox" class="region_cb" value="Europe & Central Asia" checked>Europe & Central Asia</input>
+        <div>
+       		<input type="checkbox" class="global_cb" value="World" checked>World</input>
+		</div>
+
+		<input type="range" class="slider" id="year_slider" value="1979" min="1950" max="2008" step="1"/>
+
+        <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+        <script type="text/javascript" src="nations.js"></script>
+</body>
+
+
+</html>
